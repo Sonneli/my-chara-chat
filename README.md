@@ -35,13 +35,13 @@ npm install
 # Run H5 development server
 npm run dev:h5
 
-🛠️ Configuration
+##🛠️ Configuration
 API URL: Supports full endpoints or base URLs (e.g., https://api.gemai.cc/v1).
 API Key: Enter your secret key.
 Model Name: Recommended: gemini-2.5-pro, deepseek-v3, etc.
 
-🔒 Security & Privacy
+##🔒 Security & Privacy
 This project prioritizes API security. Your API Key is stored exclusively in your browser's localStorage and is never uploaded to any server. Please ensure no sensitive information is hardcoded when committing to public repositories.
 
-🤝 Contribution
+##🤝 Contribution
 This project is in its early exploration phase (0 to 1). Welcome any suggestions, bug reports, or feature requests. If you're a fan of Wen Zhaoyu or AI Roleplay, let's build this together!
